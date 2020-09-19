@@ -6,7 +6,7 @@ FLYING   EQU $02
 POISON   EQU $03
 GROUND   EQU $04
 ROCK     EQU $05
-BIRD	 EQU $06	;joenote - added-in this unused type
+DRAGON	 EQU $06	;joenote - added-in this unused type
 BUG      EQU $07
 GHOST    EQU $08
 ;special types
@@ -16,4 +16,4 @@ GRASS    EQU $16
 ELECTRIC EQU $17
 PSYCHIC  EQU $18
 ICE      EQU $19
-DRAGON   EQU $1A
+BIRD     EQU $1A
